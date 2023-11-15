@@ -216,7 +216,6 @@ shape="rect">
 ```
 
 ## OUTPUT
-![1](https://github.com/Kathir-2703/FWAD-EXP-4/assets/64436376/59c2a8d3-18df-48d3-8159-039cbd77f603)
 ![2](https://github.com/Kathir-2703/FWAD-EXP-4/assets/64436376/8bf60ec8-9357-48d9-a95d-8ecfb4af838e)
 ![3](https://github.com/Kathir-2703/FWAD-EXP-4/assets/64436376/83298987-8d54-4879-979b-95c061465356)
 ![4](https://github.com/Kathir-2703/FWAD-EXP-4/assets/64436376/9b4853cd-53d6-4c30-aff5-f2feef93bda7)
